@@ -1,6 +1,6 @@
 # Welcome to Our Cybersecurity and Software Development Community!
 
-![Community Banner](banner_image_url)
+![Community Banner](https://avatars.githubusercontent.com/u/134281201)
 
 ## About Us
 
